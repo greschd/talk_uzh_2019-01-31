@@ -1,8 +1,8 @@
-dis_froz_max =   1.0708984375d+01
-dis_froz_min =   3.0273437500d-01
+dis_froz_max =   9.0000000000d+00
+dis_froz_min =   0.0000000000d+00
 dis_num_iter = 100
-dis_win_max =   1.7277343750d+01
-dis_win_min =  -1.0037109375d+01
+dis_win_max =   1.8000000000d+01
+dis_win_min =  -1.0000000000d+01
 mp_grid = 10    10    10
 num_bands = 32
 num_iter = 0
